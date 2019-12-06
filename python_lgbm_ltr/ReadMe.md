@@ -15,7 +15,7 @@ bash download.sh
 ## install packages
 
 ```shell
-pipenv install lightgbm scipy scikit-learn pandas
+pipenv install
 ```
 
 ## run
